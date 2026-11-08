@@ -23,3 +23,9 @@ while True:
         print(first_name, last_name, "does not qualify for either list.")
 
     print()
+
+# last_name	Stores the student's last name 
+# Also checks whether the user entered "ZZZ" to stop the program.
+# first_name Stores the student's first name.
+# gpa Stores the student's GPA as a decimal number. 
+# Used to determine whether the student qualifies for the Dean's List or Honor Roll.
